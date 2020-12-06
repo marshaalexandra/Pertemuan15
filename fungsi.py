@@ -1,2 +1,4 @@
+x = 0
 for i in range(20):
-  print(i)
+  x+=2*i
+  print(x)
