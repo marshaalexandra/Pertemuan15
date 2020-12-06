@@ -1,4 +1,5 @@
 x = 0
 for i in range(20):
   x+=2*i
-  print(x)
+  z=x+2
+  print(z)
